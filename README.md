@@ -1,9 +1,8 @@
 ![Header](github-header-banner.png)
 
 # Hi there, I'm [Mark Maina]! 👋
-## About Me 🚀
 
-I'm a passionate **[Software engineer / Backend Developer ]** with experience in **[technologies you're proficient i]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I a passionate software engineer dedicated to solving real-world problems. I aim to leverage technology and innovation to create impactful solutions that reduce unemployment worldwide while empowering people with opportunities for growth and success.
 
 - 🌱 Currently learning: **[Introduction to CLI at AlX]**
 - 🔭 Working on: **[CLI Commands like mkdir, cd, pwd, cp, mv,rm touch,]**
