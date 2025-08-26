@@ -38,7 +38,7 @@ I'm a passionate **[Software engineer / Backend Developer ]** with experience in
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/mark-sertified-10b544146)
 - **[Twitter]**(your_twitter_profile_link)
 
 
