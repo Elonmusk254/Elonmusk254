@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Mark Maina]! 👋
 
-I a passionate software engineer dedicated to solving real-world problems. I aim to leverage technology and innovation to create impactful solutions that reduce unemployment worldwide while empowering people with opportunities for growth and success.
+I am passionate software engineer dedicated to solving real-world problems. I aim to leverage technology and innovation to create impactful solutions that reduce unemployment worldwide while empowering people with opportunities for growth and success.
 
 - 🌱 Currently learning: **[Introduction to CLI at AlX]**
 - 🔭 Working on: **[CLI Commands like mkdir, cd, pwd, cp, mv,rm touch,]**
