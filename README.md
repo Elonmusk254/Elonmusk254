@@ -1,7 +1,6 @@
-# Hi there, I'm [Mark Maina]! 👋
-
 ![Header](github-header-banner.png)
 
+# Hi there, I'm [Mark Maina]! 👋
 ## About Me 🚀
 
 I'm a passionate **[Software engineer / Backend Developer ]** with experience in **[technologies you're proficient i]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
