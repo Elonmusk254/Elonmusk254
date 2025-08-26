@@ -6,11 +6,11 @@
 
 I'm a passionate **[Software engineer / Backend Developer ]** with experience in **[technologies you're proficient i]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[Introduction to CLI at AlX]**
+- 🔭 Working on: **[CLI Commands like mkdir, cd, pwd, cp, mv,rm touch,]**
+- 🌍 Languages: **[programming languages *JavaScript | Python | Dart | HTML | CSS | SQL* and human languages i speak English and kiswahili]**
+- 📫 How to reach me: **[markmaina500@gmail.com,]**
+- ⚡ Fun fact: **[i love cats]**
 
 ## My Skills 🧠
 
