@@ -8,7 +8,7 @@ I am a passionate software engineer dedicated to solving real-world problems. I 
 - 🔭 Working on: **[CLI Commands like mkdir, cd, pwd, cp, mv,rm touch,]**
 - 🌍 Languages: **[programming languages *JavaScript | Python | Dart | HTML | CSS | SQL* and human languages i speak English and kiswahili]**
 - 📫 How to reach me: **[markmaina500@gmail.com,]**
-- ⚡ Fun fact: **[i love cats]**
+- ⚡ Fun fact: **[I love cats]**
 
 ## My Skills 🧠
 
