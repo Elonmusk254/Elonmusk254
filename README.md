@@ -1,6 +1,6 @@
 # Hi there, I'm [Mark Maina]! 👋
 
-![Banner Image](file:///C:/Users/Mbugs/Downloads/github-header-banner.pngfile:///C:/Users/Mbugs/Downloads/github-header-banner.png)
+![Banner Image](file:///C:/Users/Mbugs/Downloads/github-header-banner.png)
 
 ## About Me 🚀
 
